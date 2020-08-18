@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/signup-form/static/css/main.fbe881aa.chunk.css",
+    "main.js": "/signup-form/static/js/main.1bb51afb.chunk.js",
+    "main.js.map": "/signup-form/static/js/main.1bb51afb.chunk.js.map",
+    "runtime-main.js": "/signup-form/static/js/runtime-main.a81a1219.js",
+    "runtime-main.js.map": "/signup-form/static/js/runtime-main.a81a1219.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/signup-form/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.9eadc36a.chunk.js": "/signup-form/static/js/2.9eadc36a.chunk.js",
+    "static/js/2.9eadc36a.chunk.js.map": "/signup-form/static/js/2.9eadc36a.chunk.js.map",
+    "index.html": "/signup-form/index.html",
+    "precache-manifest.55645bcd6976c7c60776d504b4bf69a7.js": "/signup-form/precache-manifest.55645bcd6976c7c60776d504b4bf69a7.js",
+    "service-worker.js": "/signup-form/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/signup-form/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.fbe881aa.chunk.css.map": "/signup-form/static/css/main.fbe881aa.chunk.css.map",
+    "static/js/2.9eadc36a.chunk.js.LICENSE.txt": "/signup-form/static/js/2.9eadc36a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a81a1219.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.9eadc36a.chunk.js",
+    "static/css/main.fbe881aa.chunk.css",
+    "static/js/main.1bb51afb.chunk.js"
+  ]
+}
